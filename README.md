@@ -1,4 +1,5 @@
-[![Header](https://github.com/Fuza322/Fuza322/blob/main/assets/inf-tekhnolog-chto-takoe.jpg)]()
+### Hi there 👋
+
 
 **Fuza322/Fuza322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -6,6 +7,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
+
 <!--
 - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
