@@ -12,7 +12,7 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-EFEFEF?style=for-the-badge&logo=storybook)
 ![npm](https://img.shields.io/badge/-npm-BB2026?style=for-the-badge&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-D2D2D2?style=for-the-badge&logo=yarn)
-![Unit-testing](https://img.shields.io/badge/-Unit—testing-A653E4?style=for-the-badge&logo=unit-testing)
+![Unit-tests](https://img.shields.io/badge/-Unit—test-A653E4?style=for-the-badge&logo=unit-test)
 
 ## Contacts: ##
 [![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
