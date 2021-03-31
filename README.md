@@ -19,4 +19,4 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivanosipik/?locale=en_US)
 [![CodeWars](https://img.shields.io/badge/-CodeWars-AF2E22?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/Fuza322)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-59A6FF?style=for-the-badge&logo=vk)](https://vk.com/id28637849)
-[![Instagram](https://img.shields.io/badge/-Instagram-CC3BA1?style=for-the-badge&logo=instagram)](https://www.instagram.com/fuza_true_sight/)
+*G-mail*: vanya.osipik322@gmail.com
