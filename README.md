@@ -1,5 +1,5 @@
-# I'm Front-end Developer (React). #
-## My Portfolio: ##
+# Front-end Developer (React). #
+## Portfolio: ##
 https://fuza322.github.io/portfoliofuza322/
 
 ## Skills: ##
