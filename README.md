@@ -15,8 +15,8 @@
 ![Unit-testing](https://img.shields.io/badge/-Unit—testing-A653E4?style=for-the-badge&logo=unit-testing)
 
 ## Contacts: ##
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
