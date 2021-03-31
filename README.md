@@ -15,8 +15,4 @@
 ![Unit-tests](https://img.shields.io/badge/-Unit—test-A653E4?style=for-the-badge&logo=unit-test)
 
 ## Contacts: ##
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
-[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor ]()
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivanosipik/?locale=en_US)
