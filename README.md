@@ -3,4 +3,4 @@
 # I'm Front-end Developer (React). #
 
 ##Skills ##
-![React](https://img.shields.io/badge/-React-5ED3F3?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-3A3E42?style=for-the-badge&logo=react)
