@@ -13,3 +13,10 @@
 ![npm](https://img.shields.io/badge/-npm-BB2026?style=for-the-badge&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-D2D2D2?style=for-the-badge&logo=yarn)
 ![Unit-testing](https://img.shields.io/badge/-Unit—testing-A653E4?style=for-the-badge&logo=unit-testing)
+
+## Contacts: ##
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
+[![G-mail](https://img.shields.io/badge/-G—Mail-F38448?style=flat-square&logo=appveyor]()
