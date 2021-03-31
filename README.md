@@ -1,5 +1,3 @@
-[![Header](https://github.com/Fuza322/Fuza322/blob/main/assets/OsipikIvan.png)](https://github.com/Fuza322)
-
 # I'm Front-end Developer (React). #
 ## My Portfolio: ##
 https://fuza322.github.io/portfoliofuza322/
