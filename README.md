@@ -1,8 +1,8 @@
 [![Header](https://github.com/Fuza322/Fuza322/blob/main/assets/OsipikIvan.png)](https://github.com/Fuza322)
 
 # I'm Front-end Developer (React). #
-## Portfolio: ##
-Portfolio link: https://fuza322.github.io/portfoliofuza322/
+## My Portfolio: ##
+https://fuza322.github.io/portfoliofuza322/
 
 ## Skills: ##
 ![HTML5](https://img.shields.io/badge/-HTML5-F38448?style=for-the-badge&logo=html5)
