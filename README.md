@@ -21,3 +21,5 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-59A6FF?style=for-the-badge&logo=vk)](https://vk.com/id28637849)
 
 **G-mail**: vanya.osipik322@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuza322)](https://github.com/Fuza322/github-readme-stats)
