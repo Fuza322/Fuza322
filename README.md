@@ -2,5 +2,14 @@
 
 # I'm Front-end Developer (React). #
 
-## Skills ##
+## Skills: ##
+![HTML](https://img.shields.io/badge/-HTML-0091C0?style=for-the-badge&logo=html)
+
+![React](https://img.shields.io/badge/-React-3A3E42?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-3A3E42?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-3A3E42?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-3A3E42?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-3A3E42?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-3A3E42?style=for-the-badge&logo=react)
+
 ![React](https://img.shields.io/badge/-React-3A3E42?style=for-the-badge&logo=react)
