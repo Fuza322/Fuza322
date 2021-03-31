@@ -15,7 +15,8 @@
 ![Unit-tests](https://img.shields.io/badge/-Unit—test-A653E4?style=for-the-badge&logo=unit-test)
 
 ## Contacts: ##
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivanosipik/?locale=en_US)
 [![Telegram](https://img.shields.io/badge/-Telegram-2590C5?style=for-the-badge&logo=telegram)](https://t.me/vanya_Fuza)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-59A6FF?style=for-the-badge&logo=vk)](https://vk.com/id28637849)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivanosipik/?locale=en_US)
 [![CodeWars](https://img.shields.io/badge/-CodeWars-AF2E22?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/Fuza322)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-59A6FF?style=for-the-badge&logo=vk)](https://vk.com/id28637849)
+[![Instagram](https://img.shields.io/badge/-Instagram-59A6FF?style=for-the-badge&logo=instagram)](https://www.instagram.com/fuza_true_sight/)
