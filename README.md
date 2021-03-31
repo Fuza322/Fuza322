@@ -16,3 +16,4 @@
 
 ## Contacts: ##
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivanosipik/?locale=en_US)
+[![Telegram](https://img.shields.io/badge/-Telegram-29A0DA?style=for-the-badge&logo=telegram)](https://t.me/vanya_Fuza)
