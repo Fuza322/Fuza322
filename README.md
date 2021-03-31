@@ -28,4 +28,4 @@
 ## Top Langs: ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuza322&layout=compact&theme=tokyonight)](https://github.com/Fuza322/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fuza322)](https://github.com/Fuza322/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Fuza322/github-readme-stats)
