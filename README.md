@@ -22,4 +22,4 @@
 
 **G-mail**: vanya.osipik322@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuza322&count_private=true)](https://github.com/Fuza322/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuza322&show_icons=true)](https://github.com/Fuza322/github-readme-stats)
