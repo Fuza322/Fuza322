@@ -1,4 +1,4 @@
-[![Header](https://github.com/Fuza322/Fuza322/blob/main/assets/Untitled.png)](https://github.com/Fuza322)
+[![Header](https://github.com/Fuza322/Fuza322/blob/main/assets/OsipikIvan.png)](https://github.com/Fuza322)
 
 # I'm Front-end Developer (React). #
 
