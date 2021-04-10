@@ -10,7 +10,7 @@ https://fuza322.github.io/portfoliofuza322/
 ![React](https://img.shields.io/badge/-React-3A3E42?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-8043C4?style=for-the-badge&logo=redux)
 ![Storybook](https://img.shields.io/badge/-Storybook-EFEFEF?style=for-the-badge&logo=storybook)
-![sass](https://img.shields.io/badge/-sass-BB2026?style=for-the-badge&logo=sass)
+![Sass](https://img.shields.io/badge/-sass-ffffff?style=for-the-badge&logo=sass)
 ![Unit-tests](https://img.shields.io/badge/-Unit—test-A653E4?style=for-the-badge&logo=unit-test)
 
 ## Contacts: ##
