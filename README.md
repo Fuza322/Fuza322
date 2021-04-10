@@ -11,7 +11,7 @@ https://fuza322.github.io/portfoliofuza322/
 ![Redux](https://img.shields.io/badge/-Redux-8043C4?style=for-the-badge&logo=redux)
 ![Storybook](https://img.shields.io/badge/-Storybook-EFEFEF?style=for-the-badge&logo=storybook)
 ![Sass](https://img.shields.io/badge/-sass-ffffff?style=for-the-badge&logo=sass)
-![Unit-tests](https://img.shields.io/badge/-Unit—test-A653E4?style=for-the-badge&logo=unit-test)
+![Unit-testing](https://img.shields.io/badge/-Unit—testing-A653E4?style=for-the-badge&logo=unit-testing)
 
 ## Contacts: ##
 [![Telegram](https://img.shields.io/badge/-Telegram-2590C5?style=for-the-badge&logo=telegram)](https://t.me/vanya_Fuza)
