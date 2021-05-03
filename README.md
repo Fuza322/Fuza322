@@ -1,6 +1,6 @@
 # Front-end Developer (React). #
 ## Portfolio: ##
-https://fuza322.github.io/portfoliofuza322/
+[ViewPortfolio][https://fuza322.github.io/portfoliofuza322/]
 
 ## Skills: ##
 ![HTML5](https://img.shields.io/badge/-HTML5-F38448?style=for-the-badge&logo=html5)
