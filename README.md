@@ -4,7 +4,7 @@
 
 **G-mail**: vanya.osipik322@gmail.com
 
-**Portfolio**: https://fuza322.github.io/portfoliofuza322/
+**Portfolio**: https://fuza322.github.io/portfoliofuza/
 
 ## GitHub Stats Card: ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuza322&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Fuza322/github-readme-stats)
